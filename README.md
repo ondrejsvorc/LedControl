@@ -1,10 +1,11 @@
 # LedControl
 
-## Download [here](http://www.mediafire.com/file/xuk95tj2tj26lbt/LedControl.rar/file).
-
 Programme with nice graphical interface that lets users to turn on and turn off a LED diode.
  
-![](https://github.com/ondrejsvorc/LedControl/blob/main/LedControl/gui.png) 
+![](https://github.com/ondrejsvorc/LedControl/blob/main/LedControl/gui.png)
+
+## Download [here](http://www.mediafire.com/file/xuk95tj2tj26lbt/LedControl.rar/file).
+
  
 # Setup
 
