@@ -1,0 +1,15 @@
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\bin\Debug\LedControl.exe
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\bin\Debug\LedControl.pdb
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.csprojAssemblyReference.cache
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\MainWindow.g.cs
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\App.g.cs
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl_MarkupCompile.cache
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl_MarkupCompile.lref
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\MainWindow.baml
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.g.resources
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.csproj.GenerateResource.cache
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.csproj.CoreCompileInputs.cache
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.exe
+C:\Users\ondre\OneDrive\Desktop\LedControl\LedControl\obj\Debug\LedControl.pdb
