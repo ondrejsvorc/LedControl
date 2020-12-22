@@ -14,7 +14,11 @@ First of all, we look for our LED's **specifications** on the Internet. We have 
 
 In my case, the LED can receive maximum of 0.02 A (0.02 mA) and **2.1 V**. Arduino UNO board can supply **3.3 V** - **5 V**.
 
-All this information enables us to calculate the value of a resistor we must use.
+All this information enables us to calculate the value of a resistor we ought to use.
+
+## Variables & their meaning
+
+![](https://github.com/ondrejsvorc/LedControl/blob/main/LedControl/variables.JPG)
 
 ## Formula
 
