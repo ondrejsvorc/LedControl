@@ -18,7 +18,7 @@ All this information enables us to calculate the value of a resistor we must use
 
 ## Formula
 
-![](https://github.com/ondrejsvorc/LedControl/blob/main/LedControl/resistor_formula.jpg)
+![](https://github.com/ondrejsvorc/LedControl/blob/main/LedControl/resistor_formula.JPG)
 
 
 # Setup
