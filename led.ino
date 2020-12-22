@@ -1,14 +1,14 @@
 const int led = 9;
 char state;
 
-void setup() {
-  
+void setup() 
+{
     pinMode(led, OUTPUT);
     Serial.begin(9600);
 }
 
-void loop() {
-
+void loop() 
+{
   while (Serial.available() > 0)
     {
         state = Serial.read();
