@@ -12,7 +12,7 @@ We can use **Ohm's Law** to determine that.
 
 First of all, we look for our LED's **specifications** on the Internet. We have to find out the **maximum amount of amperes** (alternatively miliamperes) and the **highest voltage** the LED can receive without destroying itself. 
 
-In my case, the LED can receive maximum of 0.02 A (0.02 mA) and **2.1 V**. Arduino UNO board can supply **3.3 V** - **5 V**.
+In my case, the LED can receive maximum of 0.02 A (0.02 mA) and **2.1 V**. Arduino UNO board is capable of suplying either **3.3 V**, or **5 V**. Let's assume I would be using 5 V.
 
 All this information enables us to calculate the value of a resistor we ought to use.
 
